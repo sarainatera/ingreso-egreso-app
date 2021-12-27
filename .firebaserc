@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ingreso-egreso-app-3450f": {
+      "hosting": {
+        "ingresoEgresoApp": [
+          "ingreso-egreso-app-3450f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ingreso-egreso-app-3450f"
+  }
+}
